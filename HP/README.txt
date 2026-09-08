@@ -1,0 +1,11 @@
+FINAL TEST — 5 SECOND PHOTO VERSION
+- Title: Hema Priya 💖🥰
+- Pink/rose theme.
+- Intro text types slowly.
+- Each of the 16 original photos shows for exactly 5 seconds.
+- Horizontal slide transition.
+- Photos are fitted without cropping.
+- Final screen combines all photos into one large heart.
+- No Play Song button.
+- Add MP3 as music/our-song.mp3.
+- Countdown is not included in this test.
